@@ -221,3 +221,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Virtual environment
+.venv/
+venv/
+
+# Audio & local model weights/cache
+*.wav
+*.mp3
+*.m4a
+*.flac
+models/
+.cache/
