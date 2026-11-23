@@ -1,4 +1,9 @@
 # python poc/stream.py --model base.en
+# python poc/stream.py --model small.en
+
+# Text used to compare:
+# Hello, my name is Jonathan and I am actually a computer science student. Basically, I am applying for this scholarship because I 
+#  want to build impactful AI solutions. You know, speaking in English under pressure is literally quite challenging, so I am practicing my pacing today.
 
 import argparse
 import queue
